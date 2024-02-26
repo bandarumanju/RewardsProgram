@@ -4,7 +4,7 @@
 4. Once Gradle import in done open database window and select H2
 5. Please change configuration as mentioned in below picture
 6. Please check public schema if tables are created
-7. Username and password is sa and make sure it matches application.Properties
+7. Username and password is manju and make sure it matches application.Properties
       file. (this is in memory db.)
 8. Please open h2 console in IntelliJ and run the script from /bin/main/script.sql
 9. Once tables are created please run RewardPointsCalculatorApplication.java
