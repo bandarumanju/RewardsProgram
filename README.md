@@ -1,4 +1,4 @@
-1. Check out the project from
+1. Check out the project
 2. Open the project in IntelliJ(preferred)
 3. Enable Gradle Auto-import and select Java 1.8 as SDK
 4. Once Gradle import in done open database window and select H2
@@ -10,6 +10,8 @@
 9. Once tables are created please run RewardPointsCalculatorApplication.java
       from java/com/retailer/rewards
 10. Open postman or any similar application and click
+    
+
     http://localhost:8080/customers/1001/rewards
     http://localhost:8080/customers/1002/rewards
     http://localhost:8080/customers/1003/rewards
