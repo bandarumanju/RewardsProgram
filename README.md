@@ -13,6 +13,9 @@
     
 
     http://localhost:8080/customers/1001/rewards
+
     http://localhost:8080/customers/1002/rewards
+
     http://localhost:8080/customers/1003/rewards
+
     http://localhost:8080/customers/1004/rewards
